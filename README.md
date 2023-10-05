@@ -1,6 +1,6 @@
 # Metro Gate Prototype
 
-![Metro Gate Prototype](metro_gate.jpg)
+![Metro Gate Prototype](metro_gate.png)
 
 The Metro Gate Prototype project is a simple hardware project that simulates a metro gate system using RFID technology, Arduino Mega 2560, LCD displays, 7-segment LED display, servo motors, LEDs, and a buzzer.
 
